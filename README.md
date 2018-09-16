@@ -1,2 +1,5 @@
-# nodemcu_accelerometer
-Trivial NodeMCU accelerometer board.
+# NodeMCU Amica Accelerometer
+
+NodeMCU accelerometer board. This is a trivial test project.
+
+
